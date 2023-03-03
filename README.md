@@ -1,4 +1,6 @@
-# laravel-phoneDesign
+### laravel-phoneDesign
 
 
-for more info see *.mp4 files
+Please view the following video files for more information:
+    - phoneDesign.mp4
+    - phoneDesignInstall.mp4
